@@ -4,7 +4,7 @@
   "description": "git branch activity and commit datetime history viewer",
   "main": "index.js",
   "bin": {
-    "u-init": "./bin/index"
+    "git-branch-activity": "./bin/index"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
