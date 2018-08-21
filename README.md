@@ -8,7 +8,7 @@ view git branch activity and commit datetime for branch clean.
 ```bash
 $ npm install git-branch-activity -g
 # or
-$ yarn add git-branch-activity -g
+$ yarn global add git-branch-activity
 ```
 
 # Usage #
