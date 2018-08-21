@@ -1,0 +1,26 @@
+{
+  "name": "git-branch-activity",
+  "version": "0.0.1",
+  "description": "git branch activity and commit datetime history viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahaha2012/git-branch-activity.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "history",
+    "datetime",
+    "clean"
+  ],
+  "author": "wxwdesign@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahaha2012/git-branch-activity/issues"
+  },
+  "homepage": "https://github.com/wahaha2012/git-branch-activity#readme"
+}
