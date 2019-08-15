@@ -1,7 +1,7 @@
 git-branch-activity
 ===================
 
-view git branch activity and commit datetime for branch clean.
+view local and remote git branches commit activity
 
 # Install #
 
@@ -15,3 +15,6 @@ $ npm install git-branch-activity -g
 $ cd your-project-directory
 $ git-branch-activity
 ```
+
+# Snapshot # 
+![snapshot](./assets/images/snapshot.png)

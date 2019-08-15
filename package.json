@@ -1,6 +1,6 @@
 {
   "name": "git-branch-activity",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "git branch activity and commit datetime history viewer",
   "main": "index.js",
   "bin": {
